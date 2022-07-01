@@ -1,7 +1,6 @@
 {
   "name": "dragndrop",
   "version": "0.0.0",
-  "homepage": "https://misha158.github.io/react-drag-n-drop",
   "scripts": {
     "start": "vite",
     "build": "vite build",
